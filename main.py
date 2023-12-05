@@ -1,7 +1,7 @@
 
 
 def main():
-    book_path = "books/frankenstein.txt"
+    book_path = "books/bible.txt"
     text = get_book_text(book_path)
     num_words = get_num_words(text)
     num_letters = get_num_letters(text)
